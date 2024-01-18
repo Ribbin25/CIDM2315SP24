@@ -1,4 +1,4 @@
-﻿namespace Homework1;
+namespace Homework1;
 
 class Program
 {
@@ -7,5 +7,6 @@ class Program
 
 
         Console.WriteLine("Hello, hw1!");
+        //new code
     }
 }
