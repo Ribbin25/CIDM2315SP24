@@ -1,4 +1,4 @@
-﻿namespace Homework4;
+namespace Homework4;
 
 class Program
 {
@@ -69,7 +69,7 @@ class TrianglePrinter
         {
             for(int j=1; j<=N - i; j++)
             {
-                Console.Write("  ";)
+                Console.Write("  ");
             }
 
             for (int k=1; k<=i; k++)
@@ -81,11 +81,5 @@ class TrianglePrinter
     }
 
 }
-
-
-
-
-
-
 
 
